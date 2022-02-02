@@ -36,4 +36,7 @@ public class ArithmeticUtil {
 	public static Integer product(Integer a, Integer b) {
 		return a * b;
 	}
+	public static Integer division(Integer a, Integer b) {
+		return a / b;
+	}
 }
